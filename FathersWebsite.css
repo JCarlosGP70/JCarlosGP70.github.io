@@ -1,4 +1,14 @@
 body {
+    .WebContainer{
+    width: 100%;
+    height: auto;
+}
+.articles{
+    width:90%;
+    height: auto;
+    margin: auto;
+} 
+
     background-color: #E3E0DC;
     h1{
         font-size: 65px;
